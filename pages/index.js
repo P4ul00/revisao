@@ -13,4 +13,3 @@ export default function Home() {
 
 
 }
-<a href="pagina2.html">ir para pagina 2</a>
